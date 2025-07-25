@@ -8,8 +8,8 @@ Inspired by retro workspaces, this scene brings together a classic black typewri
 
 ## Live Demo
 
-🌐 [View on GitHub Pages](https://navin1-11-04.github.io/retro-office-typewrite/)  
-📁 [Source Code](https://github.com/Navin1-11-04/retro-office-typewrite.git)
+[View on GitHub Pages](https://navin1-11-04.github.io/retro-office-typewrite/)  
+[Source Code](https://github.com/Navin1-11-04/retro-office-typewrite.git)
 
 ## Built With
 
@@ -23,24 +23,24 @@ Inspired by retro workspaces, this scene brings together a classic black typewri
 - Layered desk and wall with depth and shadow
 - Floating memo for added atmosphere
 
-## 📚 What I Learned
+## What I Learned
 
 - Crafting textures using layered gradients
 - Using `::before` and `::after` creatively
 - Coordinating animation timing for realism
 - How minimal code can build expressive visuals
 
-## 🚀 Improvements (Stretch Goals)
+## Improvements (Stretch Goals)
 
-- ⏰ Add an animated ticking wall clock  
-- 📅 Create a popup calendar or sticky notes  
-- 💡 Flickering office lamp animation
+- Add an animated ticking wall clock  
+- Create a popup calendar or sticky notes  
+- Flickering office lamp animation
 
-## 🧑‍💻 Author
+## Author
 
 **[Navin kumar](https://github.com/navin1-11-04)**  
 Feel free to fork or remix the project!
 
 ---
 
-> 💡 Don’t forget to ⭐ the repo if you like it!
+> Don’t forget to ⭐ the repo if you like it!
