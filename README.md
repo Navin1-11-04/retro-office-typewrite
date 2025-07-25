@@ -38,7 +38,7 @@ Inspired by retro workspaces, this scene brings together a classic black typewri
 
 ## 🧑‍💻 Author
 
-**[Your Name](https://github.com/navin1-11-04)**  
+**[Navin kumar](https://github.com/navin1-11-04)**  
 Feel free to fork or remix the project!
 
 ---
