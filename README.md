@@ -23,10 +23,6 @@ Inspired by retro workspaces, this scene brings together a classic black typewri
 - Layered desk and wall with depth and shadow
 - Floating memo for added atmosphere
 
-## 📸 Preview
-
-![Retro Office Screenshot](screenshot.png)
-
 ## 📚 What I Learned
 
 - Crafting textures using layered gradients
